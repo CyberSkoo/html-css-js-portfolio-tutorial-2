@@ -1,0 +1,102 @@
+﻿Kevin Flores
+[Houston, TX, 77072]
+[Flore.Kevin989@gmail.com]
+[832-858-5020]
+[LinkedIn Profile] | [GitHub Profile]
+
+
+---
+
+
+Objective
+
+
+Highly motivated and dedicated Computer Science student seeking to leverage foundational skills in programming and web development technologies in a dynamic and growth-oriented environment. Eager to contribute to innovative projects and further develop technical expertise.
+
+
+---
+
+
+Education
+
+
+Associates in Computer Science
+[Lone Star College], [Cypress, Texas]
+Expected Graduation: [May, 2025]
+Relevant Coursework: Object-Oriented Programming, Web Development, Data Structures, Algorithms
+
+
+---
+
+
+Technical Skills
+
+
+- Programming Languages: C++, Java, JavaScript
+- Web Technologies: HTML, CSS
+- Tools & Frameworks: [GitHub, Netbeans, Visual Studio, Visual Studio Code]
+- Operating Systems: Windows, Mac OS
+
+
+---
+
+
+Projects
+
+
+Personal Portfolio Website
+- Developed a personal portfolio website using HTML, CSS, and JavaScript to showcase projects and skills.
+- Implemented responsive design to ensure compatibility across various devices.
+
+
+Library Management System (C++)
+- Created a console-based application in C++ for managing library operations, including book inventory and member records.
+- Applied object-oriented programming principles to structure the application efficiently.
+
+
+Online Quiz Application (Java)
+- Developed an online quiz application in Java to facilitate quiz creation, administration, and scoring.
+- Implemented a graphical user interface (GUI) for ease of use.
+
+
+---
+
+
+Experience
+
+
+Summer Intern
+[Company Name], [City, State]
+[Month, Year] – [Month, Year]
+- Assisted in developing web applications using HTML, CSS, and JavaScript.
+- Collaborated with the development team to troubleshoot and debug code.
+- Gained practical experience in a professional software development environment.
+
+
+---
+
+
+Extracurricular Activities
+
+
+Computer Science Club Member
+[Your University], [City, State]
+[Month, Year] – Present
+- Participated in coding competitions and hackathons.
+- Attended workshops and seminars on advanced programming topics.
+
+
+---
+
+
+Certifications
+* C+ Comptia
+
+
+---
+
+
+References
+
+
+Available upon request.
